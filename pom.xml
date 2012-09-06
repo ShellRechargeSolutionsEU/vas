@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>ua.t3hnar</groupId>
+        <artifactId>scala-parent-pom</artifactId>
+        <version>1.1</version>
+    </parent>
+
+
+    <groupId>com.thenewmotion.chargenetwork.vas</groupId>
+    <artifactId>vas</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>vas-publisher-service</module>
+        <module>vas-subscriber-client</module>
+    </modules>
+
+    <scm>
+        <url>http://github.com/thenewmotion/vas</url>
+        <connection>scm:git:ssh://git@github.com/thenewmotion/vas</connection>
+        <developerConnection>scm:git:ssh://git@github.com/thenewmotion/vas</developerConnection>
+    </scm>
+
+    <repositories>
+           <repository>
+               <id>thenewmotion</id>
+               <name>The New Motion Repository</name>
+               <url>http://nexus.thenewmotion.com/content/repositories/releases-public</url>
+           </repository>
+       </repositories>
+</project>
