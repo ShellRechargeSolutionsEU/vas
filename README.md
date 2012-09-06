@@ -26,7 +26,6 @@ You can find more details in [pdf](http://github.com/thenewmotion/vas/blob/maste
         <version>1.0</version>
     </dependency>
 ```
-
 ```xml
     <dependency>
         <groupId>com.thenewmotion.chargenetwork.vas</groupId>
