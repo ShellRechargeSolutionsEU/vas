@@ -1,6 +1,6 @@
 # CiMS/VAS Interface [![Build Status](https://secure.travis-ci.org/thenewmotion/vas.png)](http://travis-ci.org/thenewmotion/vas)
 
-You can find more details in [pdf](http://github.com/thenewmotion/vas/010.030.006_Logica.CiMS.EID.VAS_C1137.pdf)
+You can find more details in [pdf](http://github.com/thenewmotion/vas/blob/master/010.030.006_Logica.CiMS.EID.VAS_C1137.pdf)
 
 ## Distribution includes
 
