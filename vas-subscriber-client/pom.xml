@@ -15,12 +15,10 @@
         <dependency>
             <groupId>com.thenewmotion</groupId>
             <artifactId>common</artifactId>
-            <version>1.20-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>net.databinder</groupId>
             <artifactId>dispatch-http_${scala.version}</artifactId>
-            <version>0.8.8</version>
         </dependency>
     </dependencies>
 
