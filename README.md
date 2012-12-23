@@ -23,13 +23,13 @@ You can find more details in [pdf](http://github.com/thenewmotion/vas/blob/maste
     <dependency>
         <groupId>com.thenewmotion.chargenetwork.vas</groupId>
         <artifactId>vas-publisher-service</artifactId>
-        <version>1.0</version>
+        <version>1.1</version>
     </dependency>
 ```
 ```xml
     <dependency>
         <groupId>com.thenewmotion.chargenetwork.vas</groupId>
-        <artifactId>vas-subscriber-client</artifactId>
-        <version>1.0</version>
+        <artifactId>vas-subscriber-client_2.10</artifactId>
+        <version>1.1</version>
     </dependency>
 ```
