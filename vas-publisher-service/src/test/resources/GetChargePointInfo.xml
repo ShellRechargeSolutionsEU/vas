@@ -1,0 +1,8 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:ns="urn://Vas/Cs/2010/12/">
+    <soap:Header>
+        <ns:subscriberIdentity>test</ns:subscriberIdentity>
+    </soap:Header>
+    <soap:Body>
+        <ns:getChargePointInfoRequest/>
+    </soap:Body>
+</soap:Envelope>
